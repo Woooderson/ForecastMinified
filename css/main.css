@@ -7,7 +7,7 @@ body {
 body {
  /* color: #211f1e ; */
  color: #fff;
- background: url('/img/bgcopy.jpg') no-repeat center center fixed;
+ background: url('http://woooderson.github.io/ForecastMinified/img/bgcopy.jpg') no-repeat center center fixed;
 	opacity: 100%;
  backface-visibility: hidden;
  background-size:cover;
